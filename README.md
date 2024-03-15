@@ -1,4 +1,4 @@
-# riichi-mahjong-camera-detector
+# RMCalc: The Riichi Mahjong Calculator
 
 This is a detector & score-calculator for Riichi Mahjong (Japanese Mahjong) based on camera-captured images.
 
